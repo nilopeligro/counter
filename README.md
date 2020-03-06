@@ -1,2 +1,2 @@
-# counter [click here](https://nilopeligro.github.io/simple_calculator/)
+# counter [click here](https://nilopeligro.github.io/counter/)
 
